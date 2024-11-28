@@ -40,4 +40,5 @@ Currently intending to create some sort of system to manage car hires or similar
 
 **Week 3: Project**<br>
 **Day 1: Plan**<br>
-Design Entity Relationship Diagram <br>
+Design Entity Relationship Diagram and make plan for project <br>
+
